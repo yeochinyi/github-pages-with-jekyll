@@ -1,4 +1,4 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "Chris-TITLE"
+date: 2020-08-24
 ---
